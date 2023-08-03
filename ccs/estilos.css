@@ -8,12 +8,17 @@
     src: url("../assets/image/fonts/YsabeauSC-VariableFont_wght.ttf");
   }    
 
+
   header {  
     font-size: 1rem;    
     background-color: );
     height: ;
     position: sticky;
     font-family: "Ysabeau"; 
+  }
+
+  #cuadro {
+    border: 1px solid grey;
   }
 
   #logo {
