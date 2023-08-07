@@ -17,10 +17,6 @@
     font-family: "Ysabeau"; 
   }
 
-  #cuadro {
-    border: 1px solid grey;
-  }
-
   #logo {
     font-size: 1rem;    
     display: inline-block;    
@@ -78,56 +74,4 @@
     border-top: 2px solid black;
   }
   
-  /* DESKTOP FIRST */
-
-   // XX- Large devices (tablets, 1400px and up)
-   @media (min-width: 1400px) { 
-  }
-
-   /*// X- Large devices (tablets, 1200px and up)*/
-   @media (max-width: 1200px) { 
-  }
-
-  /*// Large devices (tablets, 992px and up) */
-  @media (max-width: 992px) {     
-  }
-
-  /*// Medium devices (tablets, 768px and up) */
-  @media (max-width: 768px) {      
-  }
-
-   /*// Small devices (landscape phones, 576px and up) */
-   @media (max-width: 576px) { 
-  }
-
-   /*// Small devices (landscape phones, 320px and up) */
-   @media (max-width: 320px) { 
-  }
-
-  /* MOBILE FIRST */
-
-  /*// Small devices (landscape phones, 320px and up) */
-  @media (max-width: 320px) { 
-  }
-   
-  /*// Small devices (landscape phones, 576px and up) */
-  @media (max-width: 576px) { 
-   }
-
-  /*// Medium devices (tablets, 768px and up) */
-  @media (min-width: 768px) {      
-  }
-
-  /*// Large devices (tablets, 992px and up) */
-  @media (min-width: 992px) {     
-   }
-
-  /*// X- Large devices (tablets, 1200px and up)*/
-  @media (min-width: 1200px) { 
-   }
-
-  /* // XX- Large devices (tablets, 1400px and up)*/
-  @media (min-width: 1400px) { 
-  }
-
-  
+ 
